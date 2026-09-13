@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+python-dateutil
+pytz
+easyocr
+pytest
